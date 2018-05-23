@@ -10,3 +10,7 @@ $ cd bibit-start-express
 
 $ npm install
 ```
+if need the latest package
+```bash
+$ npm update
+```
